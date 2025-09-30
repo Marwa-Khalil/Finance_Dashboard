@@ -30,12 +30,17 @@ The dataset contains sales and profit data for different products across multipl
 👉 Every number has a meaning, every month has a story. Data visualization helped us uncover market behavior and smarter strategies.  
 
 <img width="1280" height="709" alt="Image" src="https://github.com/user-attachments/assets/ddbb47b3-c4ab-4925-bf10-19f90664dbca" />
+
+
+<img width="1280" height="719" alt="Image" src="https://github.com/user-attachments/assets/d0209cc6-3549-4042-a4c8-d8f73a58e596" />
+
+
 ---
 
 
 
 ## 📊 Live Dashboard  
-🔗 [Explore the Power BI Dashboard](YOUR_DASHBOARD_LINK_HERE)  
+🔗 [Explore the Power BI Dashboard]([YOUR_DASHBOARD_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiOGJmMGNiOTctMzViZC00YTMxLTgxZmQtNmMwNDk1MDM4YTE0IiwidCI6ImE3NjhlZmQ4LTAxYzEtNDVmMC1hMzc2LWY1YjJiNjBlMzM2MiJ9))  
 
 ---
 
