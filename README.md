@@ -40,7 +40,7 @@ The dataset contains sales and profit data for different products across multipl
 
 
 ## 📊 Live Dashboard  
-🔗 [Explore the Power BI Dashboard]([YOUR_DASHBOARD_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiOGJmMGNiOTctMzViZC00YTMxLTgxZmQtNmMwNDk1MDM4YTE0IiwidCI6ImE3NjhlZmQ4LTAxYzEtNDVmMC1hMzc2LWY1YjJiNjBlMzM2MiJ9))  
+🔗 [Explore the Power BI Dashboard]([[YOUR_DASHBOARD_LINK_HERE](https://app.powerbi.com/view?r=eyJrIjoiOGJmMGNiOTctMzViZC00YTMxLTgxZmQtNmMwNDk1MDM4YTE0IiwidCI6ImE3NjhlZmQ4LTAxYzEtNDVmMC1hMzc2LWY1YjJiNjBlMzM2MiJ9)](https://app.powerbi.com/view?r=eyJrIjoiOGJmMGNiOTctMzViZC00YTMxLTgxZmQtNmMwNDk1MDM4YTE0IiwidCI6ImE3NjhlZmQ4LTAxYzEtNDVmMC1hMzc2LWY1YjJiNjBlMzM2MiJ9&pageName=b5d12af160384203048c))  
 
 ---
 
@@ -57,8 +57,9 @@ We complement each other’s skills, cover gaps, and push each other to grow �
 
 ## ⚙️ Tools & Skills  
 - **Power BI** → Data modeling, DAX measures, interactive dashboards  
-- **Excel** → Data cleaning & preprocessing  
-- **Teamwork** → Remote collaboration, brainstorming, and agile problem-solving  
+- **Excel** → Data cleaning & preprocessing
+- **Figma** → UX UI Design 
+- **Teamwork** → Remote collaboration, brainstorming, and agile problem-solving
 
 ---
 
