@@ -1,6 +1,8 @@
 
 # Power BI Finance Dashboard  
+
 <img width="1280" height="712" alt="Image" src="https://github.com/user-attachments/assets/fe254e6e-6260-4959-9606-a8ceaacbed79" />
+
 ## 📖 About the Project  
 We are a team of four ambitious women 🌍✨ who met virtually from different countries and time zones. Despite never meeting in person, we managed to collaborate, brainstorm, and build our first **Power BI Finance Dashboard** together.  
 
@@ -27,6 +29,7 @@ The dataset contains sales and profit data for different products across multipl
 
 👉 Every number has a meaning, every month has a story. Data visualization helped us uncover market behavior and smarter strategies.  
 
+<img width="1280" height="709" alt="Image" src="https://github.com/user-attachments/assets/ddbb47b3-c4ab-4925-bf10-19f90664dbca" />
 ---
 
 ## 📺 Demo Video  
