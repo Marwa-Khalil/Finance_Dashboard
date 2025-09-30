@@ -3,7 +3,7 @@
 
 <img width="1280" height="712" alt="Image" src="https://github.com/user-attachments/assets/fe254e6e-6260-4959-9606-a8ceaacbed79" />
 
-## 📖 About the Project  
+## 📖 About the Project   
 We are a team of four ambitious women 🌍✨ who met virtually from different countries and time zones. Despite never meeting in person, we managed to collaborate, brainstorm, and build our first **Power BI Finance Dashboard** together.  
 
 This project is not only about analyzing numbers—it’s about telling the story behind the data and practicing real teamwork across borders.  
