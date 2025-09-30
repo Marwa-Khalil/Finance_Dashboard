@@ -32,10 +32,7 @@ The dataset contains sales and profit data for different products across multipl
 <img width="1280" height="709" alt="Image" src="https://github.com/user-attachments/assets/ddbb47b3-c4ab-4925-bf10-19f90664dbca" />
 ---
 
-## 📺 Demo Video  
-🎥 [Watch the full project walkthrough](YOUR_VIDEO_LINK_HERE)  
 
----
 
 ## 📊 Live Dashboard  
 🔗 [Explore the Power BI Dashboard](YOUR_DASHBOARD_LINK_HERE)  
